@@ -9,7 +9,6 @@ Predefined answers: The bot checks a CSV file for pre-written answers.
 GPT-2: Generates responses dynamically when no predefined answer is available.
 ## How to Run:
 Ensure you have Python installed.
-## Install dependencies:
 # copy this 
 pip install streamlit transformers pandas
 
