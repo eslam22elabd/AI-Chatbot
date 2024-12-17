@@ -1,0 +1,837 @@
+Question,Answer
+Who did the first work generally recognized as AI?,"Warren McCulloch and Walter Pitts (1943).
+"
+What sources was drawn on the formation of the first work generally recognized as AI?,"knowledge of the basic physiology and function of neurons in the brain; a formal analysis of propositional logic due to Russell and Whitehead; and Turing's theory of computation.
+"
+Who created the Hebbian learning rule?,"Donald Hebb (1949).
+"
+When the first neural network is built?,"1950.
+"
+What is the first neural network called?,"The SNARC.
+"
+"""Who introduced the Turing test", machine learning
+Alan Turing prefer what method on creating human-level Al?,"He prefer to develop learning algorithms and then teach the machine rather than by programming its intelligence by hand.
+"
+Who presented the Logic Theorist (LT)?,"Allen Newell and Herbert Simon from Carnegie Tech.
+"
+What does General Problem Solver (GPS) is designed for?,"GPS was designed from the start to imitate human problem-solving protocols.
+"
+Which model was robably the first program to embody the “thinking humanly” approach?,"General Problem Solver (GPS).
+"
+Who formulate the famous physical symbol system hypothesis?,"Allen Newell and Herbert Simon.
+"
+What does physical symbol system hypothesis states?,"a physical symbol system has the necessary and sufficient means for general intelligent action.
+"
+Who constructed the Geometry Theorem Prover?,"Herbert Gelernter (1959).
+"
+"""Who", on checkers
+Who defined the high-level language Lisp?,"John McCarthy.
+"
+"""Whatlanguage", in 1958
+who discovered a complete theorem-proving algorithm for first-order logic in 1965?,"J. A. Robinson's
+"
+Which program in 1963 was able to solve closed-form calculus integration problems typical of MIT's first-year college courses?,"James Slagle's Saint program
+"
+What is the most famous microworld?,"The blocks world.
+"
+What does the perceptron convergence theorem say?,"""The theorem says that the learning algorithm can adjust the connection strengths of a perceptron to match any input data"
+What does the book Preceptrons (1969) mentioned?,"""Although perceptrons (a simple form of neural network) could be shown to learn anything they were capable of representing"
+What is the weak methods in 1969?,"a general-purpose search mechanism trying to string together elementary reasoning steps to find complete solutions.
+"
+Why weak methods in 1969 are called weak methods?,"They do not scale up to large or difficult problem instances.
+"
+"""Why is the DENDRAL program powerful"," according to its authors?"""
+Which program is the first successful knowledge-intensive system?,"The DENDRAL program.
+"
+What does knowledge-intensive system mean?,"A system that its expertise derived from large numbers of special-purpose rules.
+"
+What is the content of the Heuristic Programming Project (HPP)?,"It is to investigate the extent to which the new methodology of expert systems could be applied to other areas.
+"
+What function does MYCIN system contribute in?,"diagnosing blood infections.
+"
+What is the major differences between MYCIN and DENDRAL?,"""First"
+What calculus of uncertainty does MYCIN incorporated?,"certainty factors.
+"
+How is the performance of certainty factors in MYCIN?,"It seemed (at the time) to fit well with how doctors assessed the impact of evidence on the diagnosis.
+"
+Which system is the first successful commercial expert system?,"R1.
+"
+Where does the first successful commercial expert system began operation?,"""The Digital Equipment Corporation (McDermott"
+What does robust language understanding requires?,"general knowledge about the world and a general method for using that knowledge.
+"
+What does Minsky's idea of frames (1975) implies?,"assembling facts about particular object and event types and arranging the types into a large taxonomic hierarchy analogous to a biological taxonomy.
+"
+What is the content of the “Fifth Generation” project announced by the Japanese government in 1981?,"""A 10-year plan to build massively parallel"
+"""What caused the """"AI winter""""?""","Many companies fell by the wayside as they failed to deliver on extravagant promises.
+"
+"""Why", after 1988
+Who described symbols as the “luminiferous aether of Al”?,"Geoff Hinton
+"
+What does “luminiferous aether of Al” by Geoff Hinton mean?,"A reference to the non-existent medium through which many 19th-century physicists believed that electromagnetic waves propagated.
+"
+How is the connectionist models better suited to the messiness of the real world?,"It forms internal concepts in a more fluid and imprecise way.
+"
+What approach does the brittleness of expert systems led to?,"""It is an approach incorporating probability rather than Boolean logic"
+What approach dominate the field of speech recognition?,"The approach using hidden Markov models (HMMs).
+"
+What are the characteristics of HMMs in the feild of speech recognition?,"""First"
+Which year is an important year for the connection between Al and other fields?,"1988
+"
+"""In 1998"," what fields does AI connected to?"""
+Whose research led to a new acceptance of probability and decision theory in Al?,"Judea Pearl's (1988).
+"
+What does Pearl's development of Bayesian networks yielded?,"It yielded a rigorous and efficient formalism for representing uncertain knowledge as well as practical algorithms for probabilistic reasoning
+"
+What major contribution is done by Rich Sutton in 1988?,"connecting reinforcement learning to the theory of Markov decision processes (MDPs) developed in the field of operations research.
+"
+What kind of advances facilitated the big data phenomenon?,"Remarkable advances in computing power and the creation of the World Wide Web.
+"
+Who argued that the improvement in performance obtained from increasing the size of the data set by two or three orders of magnitude outweighs any improvement that can be obtained from tweaking the algorithm?,"Banko and Brill (2001)
+"
+Who developed a clever method for filling in holes in photographs by blending in pixels from similar images?,"Hays and Efros (2007).
+"
+What does the term deep learning refers to?,"""It refers to machine learning using multiple layers of simple"
+What method do experiments found some success in handwritten digit recognition in the 1990s?,"convolutional neural networks.
+"
+How does deep network contribute to ALPHAGO's victories over the leading human Go players?,"representing the evaluation function.
+"
+What is the mean for Ford (2018) interviews of AI experts in the question of when (if ever) will AI systems achieve human-level performance across a broad variety of tasks?,"2099
+"
+What system does U.S. forces deployed to do automated logistics planning and scheduling for transportation?,""" a Dynamic Analysis and Replanning Tool"
+What AI system defeated world chess champion Garry Kasparov in 1997?,"Deep Blue
+"
+What AI system defeated the world GO champion Ke Jie?,"ALPHAGO
+"
+What ALPHAZERO can do?,"""It used no input from humans (except for the rules of the game)"
+"""What does the deep learning model", which won the 2018 Gordon Bell Prize
+"""Who noted that the “mechanical arts are of ambiguous use"," serving as well for hurt as for remedy”?"""
+"""Where does the statement “mechanical arts are of ambiguous use"," serving as well for hurt as for remedy” be noted?"""
+"""Who suggested that “First solve Al"," then use Al to solve everything else.”?"""
+"""How does United Nations define """"Lethal Autonomous Weapons""""?""","""weapons that can locate"
+What possible risks we might face on devoloping AI?,"""Lethal Autonomous Weapons"
+Who reminded that the field of those broader goals and warned that the subfields were in danger of becoming ends in themselves?,"Nils Nilsson (1995)
+"
+Who was motivated to consider the long-term future of Al after seeing Arthur Samuel's checker-playing program learn to beat its creator?,"Norbert Wiener
+"
+What does the Kind Midas problem implies?,"""Midas"
+What is the definition of agent?,"anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.
+"
+What the word percept refer to?,"It refer to the content an agent's sensors are perceiving.
+"
+What is an agent's percept sequence?,"the complete history of everything the agent has ever perceived.
+"
+"""In general"," what does an agent's choice of action at any given instant depend on?"""
+What can we say mathematically on an agent's behavior?,"An agent's behavior is described by the agent function that maps any given percept sequence to an action.
+"
+How AI is stucked to consequentialism?,"We evaluate an agent's behavior by its consequences.
+"
+How can we capture the desirability related to consequentialism of an AI model?,"It can be captured by a performance measure that evaluates any given sequence of environment states.
+"
+What is the difference on desirability between human and machine?,"""Human measures it from their point of view"
+Who warns to ensure that “the purpose put into the machine is the purpose which we really desire”?,"Norbert Wiener.
+"
+"""How", better
+What does the King Midas problem inspire us?,"We must accept the possibility that we might put the wrong purpose into the machine.
+"
+What can the definition of rational depends on?,"The performance measure that defines the criterion of success; The agent's prior knowledge of the environment; The actions that the agent can perform; The agent’s percept sequence to date.
+"
+What is the difference of omniscience from rationality?,"An omniscient agent knows the actual outcome of its actions and can act accordingly; but omniscience is impossible in reality.
+"
+What is the relationship between rationality and perfection?,"""Rationality maximizes expected performance"
+What information gathering means?,"Doing actions in order to modify future percepts.
+"
+How we will say that an agent lacks autonomy?,"An agent relies on the prior knowledge of its designer rather than on its own percepts and learning processes.
+"
+What does an autonomous rational agent do?,"It should learn what it can to compensate for partial or incorrect prior knowledge.
+"
+What is task environments?,"They are essentially the “problems” to which rational agents are the “solutions.”
+"
+What is PEAS description?,"""Specify the performance measure"
+What we can do as the range of task environments that might arise in Al is obviously vast?,"We can identify a fairly small number of dimensions along which task environments can be categorized.
+"
+What dimensions we can indentify on task environments?,"Fully observable vs. partially observable; single-agent vs. multiagent; deterministic vs. nondeterministic; episodic vs. sequential; static vs. dynamic; discrete vs. continuous; known vs. unknown
+"
+How can we say a task environment is fully observable?,"an agent's sensors give it access to the complete state of the environment at each point in time.
+"
+How can we say a task environment is deterministic?,"The next state of the environment is completely determined by the current state and the action executed by the agent(s).
+"
+What task environment makes an agent need not worry about uncertainty?,"fully observable and deterministic.
+"
+What is the difference between stochastic and nondeterministic?,"""We say that a model of the environment is stochastic if it explicitly deals with probabilities (e.g."
+How can we say a task environment is episodic?,"""The agent's experience is divided into atomic episodes"
+How can we say a task environment is sequential?,"The current decision of agent could affect all future decisions.
+"
+What are the examples of episodic and sequential task environments?,"Many classification tasks are episodic; Chess and taxi driving are sequential.
+"
+Why episodic environments are much simpler than sequential environments?,"The agent does not need to think ahead.
+"
+How can we say a task environment is dynamic for that agent?,"The environment can change while an agent is deliberating.
+"
+How can we say a task environment is static for that agent?,"The environment cannot change while an agent is deliberating.
+"
+Why static task envrionments are easy to deal with?,"""The agent need not keep looking at the world while it is deciding on an action"
+How can we say a task environment is semidynamic?,"The environment itself does not change with the passage of time but the agent's performance score does.
+"
+"""What are the examples of dynamic"," semidynamic and static task environments?"""
+What are the differences between discrete and continuous task environments?,"""The state of the environment"
+What are the examples of discrete and continuous task environments?,"""Chess has a finite number of distinct states (excluding the clock)"
+What does a known / unknown task environment refers to?," The agent's (or designer's) state of knowledge about the “laws of physics” of the environment.
+"
+How can we say a task environment is known?,"The outcomes (or outcome probabilities if the environment is nondeterministic) for all actions are given.
+"
+How can we say a task environment is unknown?,"The agent will have to learn how it works in order to make good decisions.
+"
+What is an example of partially observable and known task environment?,"""In solitaire card games"
+What is an example of fully observable and unknown task environment?,"""In a new video game"
+What kind of task environment should be the hardest case?,"""partially observable"
+What is an agent function?,"The mapping from percepts to actions.
+"
+What is the agent architecture?,"A program will run on some sort of computing device with physical sensors and actuators
+"
+What the architecture does to a program?,"""In general"
+What are the four basic kinds of agent programs that embody the principles underlying almost all intelligent systems?,"Simple reflex agents; Model-based reflex agents; Goal-based agents; and Utility-based agents.
+"
+What does simple reflex agents do?,"""These agents select actions on the basis of the current percept"
+What does condition-action rule similar to?,"if-then statements.
+"
+What is the more general and flexible approach for simple reflex agent?,"Firstly build a general-purpose interpreter for condition-action rules and then to create rule sets for specific task environments.
+"
+How can a simple reflex agen escape from infinite loops?,"The agent can randomize its actions.
+"
+What is better instead of allowing simple reflex agents to randomize its actions?,"A more sophisticated deterministic agent.
+"
+What is the most effective way to handle partial observability for the agent?,"The agent should maintain some sort of internal state that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. 
+"
+What kind of knowledge is required in updating model-based reflex agents' internal state information as time goes by?,"""First"
+How the information about how the world changes over time in model-based reflex agent can be divided?,"The effects of the agent's actions and how the world evolves independently of the agent.
+"
+What does the knowledge about “how the world works” is called?,"The transition model of the world.
+"
+What is sensor model in model-based reflex agent?,"""A kind of knowledge"
+What is the definition of model-based reflex agent?,"An agent using transition model and sensor model.
+"
+How transition model and sensor model function in model-based reflex agent?,"allow an agent to keep track of the state of the world.
+"
+Which part in model-based reflex agent's structure is interesting?,"The function which is responsible for creating the new internal state description.
+"
+What does the model-based reflex agent's knowing of the current world actually is?,"""It represents the agent's “best guess”"
+What does goal information do to agents?,"It describes situations that are desirable.
+"
+How a goal-based agent appears being more flexible?,"It may appears less efficient.
+"
+Why economists and computer scientists use the term utility instead?,"""It is because it sounds more scientific then words like """"happy"""".""
+"
+What will happen if the internal utility function and the external performance measure are in agreement?,"An agent that chooses actions to maximize its utility will be rational according to the external performance measure.
+"
+What does a utility function do when there are conflicting goals?,"It specifies the appropriate tradeoff.
+"
+What does a utility function do when there are several goals that the agent can aim for?,"It provides a way in which the likelihood of success can be weighed against the importance of the goals.
+"
+How can we say technically about a rational utility-based agent?,"""It chooses the action that maximizes the expected utility of the action outcomes—that is"
+What will happen if an agent possesses an explicit utility function?,"It can make rational decisions with a general-purpose algorithm that does not depend on the specific utility function being maximized.
+"
+What is hard in utility-based function?,"A utility-based agent has to model and keep track of its environment; Choosing the utility-maximizing course of action.
+"
+What is the advantage for agent to learn?,"It allows the agent to operate in initially unknown environments and to become more competent than its initial knowledge alone might allow.
+"
+What is the conceptual components for a learning agent?,"Learning element; Performance element; Critic; Problem Generator.
+"
+What does the learning element in the components for a learning agent do?,"It is responsible for making improvements.
+"
+What does the performance element in the components for a learning agent do?,"It is responsible for selecting external actions.
+"
+What does the critic in the components for a learning agent do?,"The critic tells the learning element how well the agent is doing with respect to a fixed performance standard.
+"
+How should we think when we are trying to design an agent that learns a certain capability?,"The first question is not “How am I going to get it to learn this?” but “What kind of performance element will my agent use to do this once it has learned how?” 
+"
+Why critic is necessary for a learning agent?,"The percepts themselves provide no indication of the agent's success. 
+"
+What does the problem generator in the components for a learning agent do?,"It is responsible for suggesting actions that will lead to new and informative experiences.
+"
+What will happen if an agent is willing to explore a little and do some perhaps suboptimal actions in the short run?,"It might discover much better actions for the long run.
+"
+What is needed when we are trying to learn a reflex component or a utility function?,"Information from the external standard.
+"
+What does the performance standard distinguishes part of the incoming percept as?,"A reward or penalty that provides direct feedback on the quality of the agent's behavior.
+"
+How can we rank the representations of task environments in their expressiveness?,"""Atomic"
+What does a particular agent component that deals with “What my actions do” do?,"""It describes the changes that might occur in the environment as the result of taking an action"
+What happens in an atomic representation?,"Each state of the world is indivisible—it has no internal structure.
+"
+What are the examples of areas work with atomic representations?,"""Search and game-playing"
+What does a factored representation do?,"""It splits up each state into a fixed set of variables or attributes"
+What are the examples of areas work with factored representations?,"""Constraint satisfaction algorithms"
+What happens in a structured representation?,"Objects and their various and varying relationships can be described explicitly
+"
+When we need the structured representation?,"""When we need to understand the world as having things in it that are related to each other"
+What are the examples of areas work with structured representations?,"""Relational databases and first-order logic"
+How reasoning and learning changes following to the expressive power of the representation of an agent's environment?,"Reasoning and learning become more complex as the expressive power of the representation increases.
+"
+How can we gain the benefits of expressive representations of agent environments while avoiding their drawbacks?,"Intelligent systems for the real world may need to operate at all points along the axis simultaneously
+"
+What happens in a localist representation?,"There is a one-to-one mapping between concepts and memory locations.
+"
+What happens in a distributed representation?,"""The representation of a concept is spread over many memory locations"
+"""Which representations are more robust against noise and information loss"," localist one or distributed one?"""
+What bad situation might happen using localist representations?,"""The mapping from concept to memory location is arbitrary"
+What is the definition of problem-solving agent?,"An agent that need to plan ahead: to consider a sequence of actions that form a path to a goal state.
+"
+What is the definition of search?,"The computational process that a problem-solving agent undertakes.
+"
+What representations do Problem-solving agents use?,"Atomic representations.
+"
+What happens to informed algorithms?,"The agent can estimate how far it is from the goal.
+"
+What happens to uninformed algorithms?,"The agent cannot estimate how far it is from the goal.
+"
+What is the four-phrase problem-solving process?,"Goal formulation; problem formulation; Search; Execution.
+"
+What an agent does in goal formulation phase?,"The agent adopts the goal of a task.
+"
+How does the goals act in an agent's goal formulation phase?,"Goals organize behavior by limiting the objectives and hence the actions to be considered.
+"
+What an agent does in problem formulation phase?,"The agent devises a description of the states and actions necessary to reach the goal—an abstract model of the relevant part of the world.
+"
+What an agent does in search phase?,"""Before taking any action in the real world"
+What is the definition of solution for problem-solving agent?,"A sequence of actions that reaches the goal.
+"
+What an agent does in execution phase?,"""The agent excute the actions in the solution"
+"""How is the solution in a fully observable", deterministic
+What open-loop system is by the control theorists?,"A system ignoring the percepts breaks the loop between agent and environment.
+"
+"""Which loop is more safer for a problem-solving agent"," open-loop or closed-loop?"""
+How is the solution in a partially observable or nondeterministic environment?,"A solution would be a branching strategy that recommends different future actions depending on what percepts arrive.
+"
+What is the definition of the state space?,"A set of possible states that the environment can be in.
+"
+What is the definition of the initial state?,"The state that the agent starts in.
+"
+What is the definition of the goal states?,"A set of states that are goals to the agent.
+"
+What is the definition of transition model to problem-solving agent?,"A model which describes what each action does.
+"
+What is the definition of action cost function?,"A function reflects an agent's own performance measure.
+"
+"""What is the definition of a search """"problem""""?""","""The combination of a state space"
+What is the definition of an optimal solution?,"The solution having the lowest path cost.
+"
+What is the possible meaning of model?,"""An abstract mathematical description"
+What is the definition of abstraction?,"The process of removing detail from a representation.
+"
+How can we say an abstraction is good?,"It involves removing as much detail as possible while retaining validity and ensuring that the abstract actions are easy to carry out.
+"
+What will happen if we don't have the ability to construct useful abstractions?,"The intelligent agents would be completely swamped by the real world.
+"
+What is the definition of standardized problem?,"It is intended to illustrate or exercise various problem-solving methods.
+"
+How can researchers use a standardized problem?,"A standardized problem is suitable as a benchmark for researchers to compare the performance of algorithms.
+"
+What is the definition of real-world problem?,"""It is one whose solutions people actually use"
+What is a grid world problem?,"It is a two-dimensional rectangular array of square cells in which agents can move from cell to cell.
+"
+What agents can do to objects in cells in a grid world problem?,"""Cells can contain objects"
+What wall or impassible obstacles do in a grid world problem?,"Those things in a cell prevents an agent from moving into that cell.
+"
+What is the example of a grid world problem?,"Sokoban puzzle.
+"
+What is a sokoban puzzle?,"""It is a puzzle that the agent's goal is to push a number of boxes"
+What is a sliding-tile puzzle?,"It is a puzzle that a number of tiles (sometimes called blocks or pieces) are arranged in a grid with one or more blank spaces so that some of the tiles can slide into the blank space.
+"
+What is a touring problem?,"""It is a problem that describes a set of locations that must be visited"
+What is the traveling salesperson problem (TSP)?,"It is a touring problem in which every city on a map must be visited.
+"
+What does a VLSI layout problem requires?,"It requires positioning millions of components and connections on a chip.
+"
+What does a VLSI layout problem aims to?,"""It aims to minimize area"
+How does the VLSI layout problem be splited?,"It is split into two parts: cell layout and channel routing.
+"
+What is the difference of robot navigation from following distinct paths?,"""A robot can roam around"
+What problem do real robots must also deal with in robot navigation?,"""Their sensor readings and motor controls"
+Since when does the automatic assembly sequencing of complex objects (such as electric motors) by a robot have been standard industry practice?,"1970s.
+"
+What is protein design?,"""It is an assembly problem"
+What is the definition of search algorithm?,"""A search algorithm takes a search problem as input and returns a solution"
+What does a node in a search tree corresponds to?,"A state in the state space.
+"
+What does an edge in a search tree corresponds to?,"An action.
+"
+What does the root in a search tree corresponds to?,"The initial state of the problem.
+"
+What is the distinction of the state space from the search tree?,"""The state space describes the (possibly infinite) set of states in the world"
+What is the distinction of the search tree from the state space?,"""The search tree describes paths between these states"
+What is the process of expanding a node?,"""We can expand the node"
+"""If A is a child node of B"," what B is of A?"""
+What is the essence of search?,"Following up one option now and putting the others aside for later.
+"
+How can we say a node is reached?,"The node has had a node generated for it.
+"
+What is best-first search?,"""We choose a node"
+What is node?,"A node in the tree is represented by a data structure with four components: State; Parent; Action; Path cost.
+"
+What is the componenets of a node?,"State; Parent; Action; Path cost.
+"
+What is queue?,"A data structure used to store the frontier.
+"
+What are the possible operations on a frontier?,"check whether it is empty; remove the top node; return the top node; insert node into proper place
+"
+What is a priority queue?,"""A kind of queue which first pops the node with the minimum cost according to some evaluation function"
+Where does a priority queue might be used?,"It is used in best-first search.
+"
+What is a first-in-first-out (FIFO) queue?,"A kind of queue which  first pops the node that was added to the queue first.
+"
+Where does a FIFO queue might be used?,"It is used in breadth-first search.
+"
+What is a last-in-first-out (LIFO) queue?,"A kind of queue which  first pops the node that was added most recently to the queue.
+"
+Where does a LIFO queue might be used?,"It is used in depth-first search.
+"
+What is the example of loopy path in a search?,"The search goes repeatedly between two states.
+"
+what is the possible consequence if loopy path occurs in a search?,"The complete search tree is infinite.
+"
+What should be eliminated in the search?,"Redundant paths.
+"
+What possible methods can be used to eliminate redundant paths?,"Remember all previously reached states to detect redundant paths; do not consider it for minor problem formulations; only check for cycles but not for redundant paths in general.
+"
+What is a graph search?,"A search algorithm which checks for redundant paths.
+"
+What is a tree-like search?,"A search algorithm which does not check for redundant paths.
+"
+What is an example of graph search algorithm?,"The Brst-First-Search algorithm.
+"
+What are the evaluation methods on an algorithm’s performance?,"Completeness; Cost optimality; Time complexity; Space complexity.
+"
+What does Completeness evaluates specificly on an algorithm's performance?,"""Is the algorithm guaranteed to find a solution when there is one"
+What does Cost optimality evaluates specificly on an algorithm's performance?,"Does it find a solution with the lowest path cost of all solutions?
+"
+What does Time complexity evaluates specificly on an algorithm's performance?,"""How long does it take to find a solution? This can be measured in seconds"
+What does Space complexity evaluates specificly on an algorithm's performance?,"How much memory is needed to perform the search?
+"
+What kind of search algorithm will be complete?,"""A search algorithm which is systematic in the way it explores an infinite state space"
+What evaluation methods on an algorithm’s performance are considered with respect to some measure of the problem difficulty?,"Time and space complexity.
+"
+What variables can we use in measuring the complexity of an algorithm?,"""d"
+What is an informed search strategy?,"One that uses domain-specific hints about the location of goals.
+"
+What is heuristic function?,"The estimated cost of the cheapest path from the state at node n to a goal state.
+"
+What is Greedy best-first search?,"Greedy best -first search is a form of best-first search that expands first the node with the lowest value on the grounds that this is likely to lead to a solution quickly.
+"
+Why the algorithm is called “greedy”?,"""On each iteration it tries to get as close to a goal as it can"
+What is A* search?,"A* search is a best-first search that uses the evaluation function f(n) = g(n) + h(n).
+"
+What is g(n)?,"g(n) is the path cost from the initial state to node n.
+"
+What is f(n)?,"f(n) is the estimated cost of the best path that continues from n to a goal.
+"
+What is the properties of A* search?,"""A* search is complete"
+What is the drawback of A* search?,"A* search uses a lot of space and memory.
+"
+What is an admissible heuristic?,"An admissible heuristic is one that never overestimates the cost to reach a goal. 
+"
+What is a contour?,"A contour is a useful way to visualize a search by drawing it in the state space.
+"
+Does uniform-cost search has contours?,"""Yes"
+What does the contours with uniform-cost search look like?,"""The contours with uniform-cost search will be “circular” around the start state"
+What is satisficing solutions?,"""Satisficing solutions are when we accept solutions that are suboptimal"
+What is bounded suboptimal search?,"We look for a solution that is guaranteed to be within a constant factor W of the optimal cost.
+"
+Which algorith provides bounded suboptimal search?,"Weighted A* provides bounded suboptimal search.
+"
+What is bounded-cost search?,"We look for a solution whose cost is less than some constant C.
+"
+What is unbounded-cost search?,"""We accept a solution of any cost"
+What is the example of an unbounded-cost search algorithm?,"An example of an unbounded-cost search algorithm is speedy search.
+"
+What is speedy search?,"""The speedy search is a version of greedy best-first search that uses as a heuristic the estimated number of actions required to reach a goal"
+What is Iterative-deepening A* search?,"Iterative-deepening A* search (IDA*) is to A* what iterative-deepening search is to depthfirst.
+"
+What is the benefits of Iterative-deepening A* search?,"""Iterative-deepening A* search gives us the benefits of A* without the requirement to keep all reached states in memory"
+What is recursive best-first search?,"""Recursive best-first search attempts to mimic the operation of standard best-first search"
+What is beam search?,"""Beam search puts a limit on the size of the frontier; that makes it incomplete and suboptimal"
+How to construct good heuristics?,""" One can sometimes construct good heuristics by relaxing the problem definition"
+How do local search algoritms function?,"""Local search algorithms operate by searching from a start state to neighboring states"
+Are local search algoritms systematic?,"""No"
+What are the advantages of local search algorithms?,"They use very little memory; and they can often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable.
+"
+What is hill-climbing search algorithm?,"The hill-climbing search algorithm keeps track of one current state and on each iteration moves to the neighboring state with highest value.
+"
+Why hill climbing is called greedy local search?,"Hill climbing is called greedy local search because it grabs a good neighbor state without thinking ahead about where to go next.
+"
+What is the drawback of hill climbing?,"""Hill climbing can get stuck when it reaches local maxima"
+What is a local maximum?,"A local maximum is a peak that is higher than each of its neighboring states but lower than the global maximum.
+"
+What is a plateau?,"A plateau is a flat area of the state-space landscape.
+"
+What are the examples of plauteau?,"""A plauteau is a flat local maximum"
+What is stochastic hill climbing?,"Stochastic hill climbing  chooses at random from among the uphill moves; the probability of selection can vary with the steepness of the uphill move. 
+"
+What is first-choice hill climbing?,"A first-choice hill climbing implements stochastic hill climbing by generating successors randomly until one is generated that is better than the current state.
+"
+What is random-restart hill climbing?,"""A random-restart hill climbing conducts a series of hill-climbing searches from randomly generated initial states"
+How to get a success hill climbing?,"""A success hill climbing depends very much on the shape of the state-space landscape: if there are few local maxima and plateaus"
+What is simulated annealing?,"A simulated annealing combines hill climbing with a random walk in a way that yields both efficiency and completeness.
+"
+What is annealing?,"""Annealing is the process used to temper or harden metals and glass by heating them to a high temperature and then gradually cooling them"
+What is local beam search?,"The local beam search algorithm keeps track of k states rather than just one. 
+"
+How does the local beam search operate?,"""It begins with k randomly generated states. At each step"
+What is evolutionary algoritms?,"Evolutionary algorithms can be seen as variants of stochastic beam search that are explicitly motivated by the metaphor of natural selection in biology.
+"
+What is genetic algorithm?,"""Genetic algorithms are similar to stochastic beam search"
+When is the genetic algorithm advantageous?,"Genetic algorithm is advantageous when there are blocks that perform useful functions.
+"
+What are empirical gradient methods?,"Empirical gradient methods are methods that measure progress by the change in the value of the objective function between two nearby points
+"
+What is a belief state?," A belief state is a set of physical states that the agent believes are possible.
+"
+What is a sensorless problem?,"A sensorless problem is when the agent’s percepts provide no information at all.
+"
+What are offline search algorithms?,"Offline search algorithms compute a complete solution before taking their first action.
+"
+What are online search algorithms?,"""Online search algorithms take an action first"
+How is an online search problem solved?,"""An online search problem is solved by interleaving computation"
+What is competitive ratio?,"Competitive ratio is the comparison of the cost with the path cost the agent would incur if it knew the search space in advance.
+"
+What are dead ends?,"Dead ends are states from which no goal state is reachable.
+"
+What is the meaning of safely explorable?,"Safely explorable is when some goal state is reachable from every reachable state. 
+"
+What is random walk?,"A random walk simply selects at random one of the available actions from the current state
+"
+What are competitive environments?,"Competitive environments are in which two or more agents have conflicting goals. 
+"
+What is an economy?,"An economy is to consider a very large number of agents in the aggregate.
+"
+What are the examples of games that include an element of chance?,"The examples are rolling dice or shuffling cards.
+"
+What are the examples of games of imperfect information?,"""The examples are poker and bridge"
+"""What is """"perfect information""""?""","Perfect information is when the game is fully observable.
+"
+"""What is """"zero-sum""""?""","“Zero-sum” means that what is good for one player is just as bad for the other: there is no “win-win” outcome.
+"
+What are the formally defined elements of a game?,"""A game can be formally defined with initial state"
+What is a terminal test?,"A terminal test is true when the game is over and false if otherwise.
+"
+What is terminal states?,"Terminal states are states where the game has ended.
+"
+What is a utility function?,"A utility function defines the final numeric value to player p when the game ends in terminal state s.
+"
+What are the other names of a utility function?,"The other names of a utility function are an objective function or payoff function.
+"
+What is a state space graph?,"""A state space graph is a graph where the vertices are states"
+When do we use minimax search?,"We uses minimax search for games with multiple outcome scores.
+"
+What is ply?,"""Ply is used to unambiguously mean one move by one player"
+What is the minimax search algorithm?,"The minimax search algorithm finds the best move for MAX by trying all actions and choosing the one whose resulting state has the highest MINIMAX value.
+"
+Is the minimax search algorithm recursive?,"""Yes"
+What is the time complexity for the minimax search algorithm?,"The time complexity of the minimax algorithm is O(b^m) if the maximum depth of the tree is m and there are b legal moves at each point.
+"
+What is alpha–beta pruning?,"The alpha–beta pruning is the particular technique when we compute the correct minimax decision without examining every state by pruning large parts of the tree that make no difference to the outcome.
+"
+What is Type A strategy?,"""A Type A strategy considers all possible moves to a certain depth in the search tree"
+What is Type B strategy?,"""A Type B strategy ignores moves that look bad"
+What is the difference between the Type A strategy and Type B strategy?,"""Type A strategy explores a wide but shallow portion of the tree"
+What is the example of games with Type A strategy?,"Most of the chess programs have been Type A strategy.
+"
+What is the example of games with Type B strategy,"Most of the Go programs are more often Type B strategy.
+"
+What is forward pruning?,"""A forward pruning prunes moves that appear to be poor moves"
+Why we use Monte Carlo tree search?,"""We use Monte Carlo tree search because  alpha–beta search would be limited to only 4 or 5 ply and "
+What are sto4chastic games?,"""Stochastic games bring us a little closer to the unpredictability of real life by including a random element"
+What is the example of stochastic games?,"Backgammon is a typical stochastic game that combines luck and skill. 
+"
+What are partially obsercable games?,"Partially observable games  includes the use of scouts and spies to gather information and the use of concealment and bluff to confuse the enemy.
+"
+What are the examples of partially obsercable games?,"Video games such as StarCraft is the example of partially obsercable game.
+"
+What are stochastic partial observable games?,"Stochastic partial observable games are where the missing information is generated by the random dealing of cards.
+"
+What are the examples of stochastic partial observable games?,"""Card games such as bridge"
+When is Monte Carlo search preferred?,"""When the branching factor is high or it is difficult to define an evaluation function"
+What is the limitation of alpha–beta search?,"The limitation of alpha–beta search is its vulnerability to errors in the heuristic function.
+"
+What is the limitation of Monte Carlo search?,"The limitation of Monte Carlo is that it is designed to calculate the values of legal moves. 
+"
+What is metareasoning?,"Metareasoning is the kind of reasoning about what computations to do.
+"
+What is a constraint satisfaction problem?,"A constraint satisfaction problem is A problem that is solved when each variable has a value that satisfies all the constraints on the variable.
+"
+What are the components of a constraint satisfaction problem?,"""The three components are a set of variables (X)"
+What is a consistent or legal assignment?,"A consistent or legal assignment is an assignment that does not violate any constraints.
+"
+What is a complete assignment?,"A complete assignment is one in which every variable is assigned a value.
+"
+What is a solution to a CSP?,"""A solution to a CSP is a consistent"
+What is a partial assignment?,"A partial assignment is one that leaves some variables unassigned.
+"
+What is a partial solution?,"A partial solution is a partial assignment that is consistent.
+"
+Why do we formulate a problem as a CSP?,"One reason is that the CSPs yield a natural representation for a wide variety of problems; it is often easy to formulate a problem as a CSP.
+"
+What are linear constraints?,"Linear constraints are  constraints in which each variable appears only in linear form. 
+"
+What is unary constraint?,"A unary constraint restricts the value of a single variable. 
+"
+What is a global constraint?,"A global constraint is a constraint involving an arbitrary number of variables.
+"
+What is constraint propagation?,"""It is using the constraints to reduce the number of legal values for a variable"
+What is node-consistency?,"A single variable is node-consistent if all the values in the variable’s domain satisfy the variable’s unary constraints. 
+"
+What is arc-consistent?,"A variable in a CSP is arc-consistent if every value in its domain satisfies the variable’s binary constraints. 
+"
+What is the example of algorithm that enforce arc consistency?,"The most popular algorithm for enforcing arc consistency is called AC-3. 
+"
+What can path consistency do?,"Path consistency tightens the binary constraints by using implicit constraints that are inferred by looking at triples of variables.
+"
+What is minimum-remaining-values?,"Minimum-remaining-value is the idea of choosing the variable with the fewest “legal” values.
+"
+What can degree heuristic do?,"Degree heuristic attempts to reduce the branching factor on future choices by selecting the variable that is involved in the largest number of constraints on other unassigned variables.
+"
+What can the least-constraining-value heuristic do?,"The least-constraining-value heuristic prefers the value that rules out the fewest choices for the neighboring variables in the constraint graph.
+"
+What is the policy of backtracking-search algorithm?,"The backtracking-search algorithm backs up to the preceding variable and try a different value for it. 
+"
+What is a backjumping method?,"A backjumping method backtracks to the most recent assignment in the conflict set.
+"
+What happens to the algorithm when no legal value is found?,"""When no legal value is found"
+What is constraint learning?,"Constraint learning is the idea of finding a minimum set of variables from the conflict set that causes the problem.
+"
+How can independence be ascertained?,"Independence can be ascertained simply by finding connected components of the constraint graph. 
+"
+What is a topological sort?,"""A topological sort is the ordering of picking any variable to be the root of the tree first"
+What is a tree decomposition?,"A tree decomposition is a transformation of the original graph into a tree where each node in the tree consists of a set of variable.
+"
+What is the example of the requirements of a tree decomp7osition?,"One of the examples is every variable in the original problem appears in at least one of the tree nodes.
+"
+What is an axiom?,"An axiom is the sentencet that is taken as being given without being derived from other sentences.
+"
+What is an inference?,"An inference is deriving new sentences from old.
+"
+What requirement should inference obey?,""" Inference must obey the requirement that when one asks a question of the knowledge base"
+What is the wumpus world?,"The wumpus world is a cave consisting of rooms connected by passageways.
+"
+What is semantics?,"""Semantics are the meaning of sentences"
+What is grounding?,"Grounding is the connection between logical reasoning processes and the real environment in which the agent exists.
+"
+What is theorem prooving?,"Theorem prooving is applying rules of inference directly to the sentences in our knowledge base to construct a proof of the desired sentence without consulting models. 
+"
+When is a sentence valid?,"A sentence is valid if it is true in all models. 
+"
+When is a sentence satisfiable?,"""A sentence is satisfiable if it is true in"
+What is monotonicity?,"A monotonicity says that the set of entailed sentences can only increase as information is added to the knowledge base.
+"
+What do the algorithm do in early termination?,"""The algorithm detects whether the sentence must be true or false"
+What is a pure symbol?,"A pure symbol is a symbol that always appears with the ame “sign” in all clauses. 
+"
+What is a unit clause?,"A unit clause was a clause with just one literal. 
+"
+What is unit propagation?,"""Unit propagation resembles the process of forward chaining with definite clauses"
+What are atemporal variables?,"Atemporal variables are symbols associated with permanent aspects of the world that do not need a time superscript.
+"
+What is the representational frame problem?,"The representational frame problem is the specific manifestation of the frame problem.
+"
+How is knowledge contained?,"Knowledge is contained in agents in the form of sentences in a knowledge representation language that are stored in a knowledge base.
+"
+Why do intelligent agents need knowledge?,"Intelligent agents need knowledge about the world in order to reach good decisions.
+"
+How is a representation language defined?,"""A representation language is defined by its syntax"
+Why is the relationship of entailment between sentences is crucial?,"The relationship of entailment between sentences is crucial to our understanding ofreasoning.
+"
+What is sound inference?,"Sound inference algorithms derive only sentences that are entailed.
+"
+What are complete algorithms?," Complete algorithms derive all sentences that are entailed.
+"
+What is propositional logic?,"Propositional logic is a simple language consisting of proposition symbols and logical connectives.
+"
+What can propositional logic do?,"""Propositional logic can handle propositions that are known to be true"
+What are inference rules?,"Inference rules are patterns of sound inference that can be used to find proofs. 
+"
+What is the resolution rule?,"The resolution rule yields a complete inference algorithm for knowledge bases that are expressed in conjunctive normal form.
+"
+What are the natural reasoning algorithms for knowledge bases in Horn form?," Forward chaining and backward chaining are very natural reasoning algorithms for knowledge bases in Horn form.
+"
+What is a logical state estimation?,"Logical state estimation involves maintaining a logical sentence that describes the set of possible states consistent with the observation history. 
+"
+What do each update step of logical state estimation require?,"""Each update step requires inference using the transition model of the environment"
+How decisions within a logical agent can be made by SAT solving?,"It works by finding possible models specifying future action sequences that reach the goal.  
+"
+Why does propositional logic do not scale to environments of unbounded size?,"""This is because e it lacks the expressive power to deal concisely with time"
+How should knowledge representation languages be?,"""Knowledge representation languages should be declarative"
+How does logic differs?,"Logics differ in their ontological commitments and epistemological commitments.
+"
+What is the difference in propositional logic and first-order logic?,"""While propositional logic commits only to the existence of facts"
+What is the similarity of propositional logic and first-order logic?,"Both propositional logic and first-order logic share a difficulty in representing vague propositions. 
+"
+How does the difficulty in representing vague  propositions affect both  propositional logic and first-order logic?,"""The difficulty limits their applicability in domains that require personal judgments"
+What does the syntax of first-order logic does?,"""It adds terms to represent objects"
+"""What does a possible world", or model
+When is an atomic sentence true?,"An atomic sentence is true only when the relation named by the predicate holds between the objects named by the terms. 
+"
+What can extended interpretations do?,"""Extended interpretations"
+What is the process of developing a knowledge base in first-order logic?,"""Developing a knowledge base in first-order logic requires a careful process of analyzing the domain"
+What is AI?,"Artificial Intelligence (AI) is the part of computer science concerned with designing intelligent computer systems.
+"
+What do the branches of AI have?,"""NLP"
+What is the Turing Test?,"Alan Turing devised a test for intelligence called the Imitation Game in.
+"
+Under what conditions can intelligence be proved to have passed the test?,"""If"
+What capabilities would the AI need?,"""Natural language processing"
+What are the cental goals of AI research?,"""Reasoning"
+What is reasoning?,"""The reasoning is the mental process of deriving logical conclusion and making predictions from available knowledge"
+What types of reasoning are there?,"""Deductive"
+What is Deductive reasoning?,"Deductive reasoning is deducing new information from logically related known information.
+"
+What is Inductive reasoning?,"Inductive reasoning is a form of reasoning to arrive at a conclusion using limited sets of facts by the process of generalization.
+"
+What is Abductive reasoning?,"Abductive reasoning is a form of logical reasoning which starts with single or multiple observations then seeks to find the most likely explanation or conclusion for the observation.
+"
+What is Common Sense?,"""Common sense reasoning is an informal form of reasoning"
+How Intelligence applications should behave?,"""Intelligence applications are expected to respond to stimulation consistent with traditional responses from humans"
+What three ways of thinking do we need to learn in artificial intelligence?,"""Introspection"
+What is Itrospection?,"Trying to catch our own thoughts as they go by.
+"
+What is psychological experiments?,"Observing a person in action.
+"
+What is brain imaging?,"Observing the brain in action.
+"
+What is rational behavior?,"Doing the right thing!
+"
+What is the right thing?,"""It is expected to maximize goal achievement"
+What are the advantages of studying AI as rational agent?,"""It is more general than using logic only"
+What are the main roles that AI plays?,"Study the intelligent part concerned with humans. Represent those actions using computers.
+"
+What is True AI?,"""True A.I. can improve on past iterations"
+What do the currently popular approaches have?,"""Currently popular approaches include statistical methods"
+"""What is the relationship among AI", ML
+What are the advantages of AI?,"""Reduces in human error"
+What are the disadvantages of AI?,"""Cost overruns"
+What is knowledge?,"Knowledge is a collection of information about a domain that can be used to solve problems within a domain.
+"
+What are the organization of konwledge?,"""Wisdom"
+What is declarative knowledge?,"""Declarative knowledge is to know about something. It includes concepts"
+What is procedural Knowledge?,"Procedural knowledge is a type of knowledge which is responsible for knowing how to do something.
+"
+What is heuristic konwledge?,"""Heuristic knowledge is rules of thumb based on previous experiences"
+What is structural knowledge?,"It describes relationships between various concepts and the relationship that exists between concepts or objects.
+"
+What is Meta-knowledge?,"It is not specific to any single domain but aims to describe the structure of the data present in the knowledge systems.
+"
+What is logical representation?,"Logical representation is a language that is free from ambiguity issue.
+"
+What categories can logical representation be divided into?,"Propositional and predicate.
+"
+What is proposition?,"It is a sentence that is either true or false.
+"
+What is semantic network?,"A semantic network or net -graph structure is used to represent knowledge in patterns of interconnected nodes and arcs.
+"
+What do the production rules consist of?,"IF(condition) and THEN(action).
+"
+What are the advantages of production rule?,"The production rules are expressed in natural language. The production rules are expressed in natural language.
+"
+What are the disadvantages of production rule?,"""Production rule system does not exhibit any learning capabilities"
+What is Knowledge-based System?,"A knowledge-based system (KBS) is a form of artificial intelligence (AI) that aims to capture the knowledge of human experts to support decision-making.
+"
+What is medical expert system?,"An expert system is a computer program that represents and reasons with knowledge of some specialist subject with a view to solving problems or giving advice.
+"
+What do the typical tasks for expert system have?,"""The interpretation of data"
+What do the complex decisions invovle?,"Complex decisions involve intricate combination of factual and heuristic knowledge.
+"
+What do the structure of expert system reflect?,"The structure of expert systems reflect the knowledge engineers understanding of the methods of representing knowledge and of how to perform intelligent decision making tasks with the support of a computer based system.
+"
+What is backward chaining?,"Backward chaining starts from the goal and works backward through inference rules to find the required facts that support the goal.
+"
+What is the research strategy of backward chaining reasoning?,"Backward chaining reasoning applies a depth-first search strategy.
+"
+What does the backward chaining apply to?,"""It is suitable for diagnostic"
+What is forward chaining?,"Forward chaining starts from known facts and applies inference rule to extract more data unit it reaches to the goal.
+"
+What is the research strategy of forward chaining reasoning?,"Forward chaining reasoning applies a breadth-first search strategy.
+"
+What does the forward chaining apply to?,"""It is suitable for the planning"
+What is knowledge engineering?,"The process of building an expert system is called knowledge engineering and is done by a knowledge engineer.
+"
+What is knowledge engineer?,"The knowledge engineer is a human with a background in computer science and AI and he knows how to build expert systems.
+"
+What is knowledge engineering?,"Knowledge engineering is the acquisition of knowledge from a human expert or any other source.
+"
+What is Five-in-row system?,"Five-in-row system is normally is implemented as a board game.
+"
+What is search?,"Search is a about exploring alternatives.
+"
+What are the application of search?,"""Route finding"
+What is category?,"""Incremental formulation"
+What is incremental formulation?,"""This problem involves operators that augment the state description"
+What is complete-state formulation?,"States are independent for each other.
+"
+What is toy problrm?,"A toy problem is intended to illustrate or exercise various problem-solving methods.
+"
+What is real-word problem?,"A real-world problem is one whose solutions people actually care about.
+"
+What’re the conditions for searching?,"""Observable"
+What is observable?,"You always know what’s going on currently.
+"
+What is discrete?,"""Given any state"
+What is known?,"The agent knows which states are reached by performing the corresponding action.
+"
+What is deterministic?,"Each action has exactly one outcome.
+"
+What are goodness of a search strategy?,"""Completeness"
+How to formulate searching?,"""States"
+What is states?,"The basic unit for searching.
+"
+What is initial state?,"The state that the agent starts in.
+"
+What is action?,"The operations that you can perform for the current state.
+"
+What is transition model?,"The outcome of actions.
+"
+What is goal test?,"Which determines whether a state is a goal state.
+"
+What is path cost?,"Assign a numeric cost to each path.
+"
+How to solve searching problems?,"""A solution is an action sequence"
+What dose a graph consist of?,"Nodes and arcs.
+"
+What dose the problem space consist of?,"""A state space"
+What’s uninformed Searching?,"While searching you have no clue whether one non-goal state is better than any other.
+"
+What is breadth-first search?,"Expand shallowest unexpanded node.
+"
+What is fringe?,"""Nodes waiting in a queue to be explored"
+Does breadth-first search always find a solution if one exists?,"Yes.
+"
+Does breadth-first search always find the best (least-cost) solution?,"""Yes"
+How long breadth-first search will take?,"1+b+b^2+b^3+… +b^d (nodes until the solution)
+"
+What is depth-first search?,"Expand deepest unexpanded node.
+"
+Does depth-first search always find a solution if one exists?,"No: fails in infinite-depth spaces.
+"
+How long depth-first search will take?,"O(b^m) with m=maximum depth
+"
+Does depth-first search always find the best (least-cost) solution?,"No (It may find a non-optimal goal first).
+"
+What is iterative deepening search?,"Run multiple DFS searches with increasing depth-limits.
+"
+Does iterative deepening  search always find a solution if one exists?,"Yes.
+"
+Does iterative deepening search always find the best (least-cost) solution?,"Only if path cost is a non-decreasing function of depth.
+"
+How long iterative deepening search will take?,"b + (b+b^2) + .......(b+....b^d)  = O(b^d).
+"
+What is uniform-cost search?,"Always expand the node on the fringe with minimum cost g(n).
+"
+Does uniform-cost search always find a solution if one exists?,"Yes.
+"
+Does uniform-cost search always find the best (least-cost) solution?,"""Yes"
+How long uniform-cost search will take?,"of nodes with path cost ≤ cost of optimal solution.
+"
+How much space does uniform-cost search take to complete the run?,"of nodes with path cost ≤ cost of optimal solution.
+"
+How much space does iterative deepening search take to complete the run?,"O(bd)
+"
+How much space does depth-first search take to complete the run?,"O(bm)
+"
+How much space does breadth-first search take to complete the run?,"""O(b^d) (keeps every node in memory"
